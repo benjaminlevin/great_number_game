@@ -1,0 +1,44 @@
+*{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#wrapper{
+  margin-top: 10%;
+  padding: 2%;
+  border: solid black 1px;
+  width: 500px;
+  text-align: center;
+}
+
+#incorrect{
+  background-color: red;
+  border: solid black 1px;
+  width: 60%;
+  height: 20%;
+}
+
+#correct{
+  background-color: green;
+  border: solid black 1px;
+  padding: 10px;
+  word-wrap: break-word;
+  width: 60%;
+  height: 30%;
+}
+
+input.correctinp{
+  display: block;
+  margin: 0% 10% 0% 27%;
+  width: 150px;
+  text-align: center;
+  padding: 5px;
+}
+
+input.most{
+  display: block;
+  margin: 2% 2% 2% 35%;
+  width: 150px;
+  text-align: center;
+  padding: 5px;
+}
